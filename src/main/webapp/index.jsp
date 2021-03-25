@@ -8,18 +8,17 @@
 </head>
 <body>
 
-	<header>
-	this is header
+	<header> this is header
 		<div>회원 가입</div>
 		<div>관리자</div>
 	</header>
 	
-	<article>
-	this is body
+	<article> this is body
+		<section>기사1</section>
+		<section>기사2</section>
 	</article>
 	
-	<footer>
-	this is footer
+	<footer> this is footer
 	</footer>
 	
 </body>
