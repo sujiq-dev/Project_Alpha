@@ -12,6 +12,7 @@
 		<div>회원 가입</div>
 		<div>관리자</div>
 		<div>으아아아아아아</div>
+		<div>힝구 실수했당</div>
 	</header>
 	
 	<article> this is body
