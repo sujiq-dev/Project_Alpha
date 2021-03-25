@@ -11,6 +11,7 @@
 	<header> this is header
 		<div>회원 가입</div>
 		<div>관리자</div>
+		<div>으아아아아아아</div>
 	</header>
 	
 	<article> this is body
