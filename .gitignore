@@ -61,7 +61,8 @@ release.properties
 dependency-reduced-pom.xml
 
 
-
+#프로젝트 이미지 리소스
+images/
 
 
 
