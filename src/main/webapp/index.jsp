@@ -13,9 +13,11 @@
 	</header>
 	
 	<article>
+	this is body
 	</article>
 	
 	<footer>
+	this is footer
 	</footer>
 	
 </body>
